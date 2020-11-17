@@ -1,7 +1,6 @@
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://sethdev.ca/]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw]
+[<img align="left" alt="sethdev.ca/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 ### 📕 Latest Blog Posts
 
