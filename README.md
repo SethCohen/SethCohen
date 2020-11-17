@@ -1,6 +1,6 @@
 ### Connect with me:
 
-[<img align="left" alt="sethdev.ca/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sethdev.ca/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sethdev.ca/)
 
 ### 📕 Latest Blog Posts
 
