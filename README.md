@@ -13,14 +13,18 @@ A programming and designing freelancer looking to learn new things.
 
 <br />
 
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### :zap: Recent GitHub Activity
+---
+
+### ⚡ Recent GitHub Activity
 <img alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true?count_private=true" />
 
-### :zap: Top Languages
+### 📊 Top Languages
 <img alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&layout=compact" />
 
