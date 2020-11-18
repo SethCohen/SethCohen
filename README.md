@@ -14,6 +14,13 @@ A freelancer who likes to learn how to do everything.
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw)
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
