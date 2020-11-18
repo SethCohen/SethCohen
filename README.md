@@ -21,7 +21,8 @@ A programming and designing freelancer looking to learn new things.
 ### :zap: Recent GitHub Activity
 <img align="left" alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true?count_private=true" />
 
+<br />
 
 ### :zap: Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen" />
 
