@@ -17,6 +17,7 @@ A freelancer who likes to learn how to do everything.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Killing Floor 2 Tutorial - Adding Multiple Maps To Your Server Easily](https://www.youtube.com/watch?v=maLiXN8EfG4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw)
