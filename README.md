@@ -25,11 +25,10 @@ A freelancer who likes to learn how to do everything.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Killing Floor 2 Easy Map Adder For Servers](https://sethdev.ca/kf2-easy-server-map-adder/?utm_source=rss&utm_medium=rss&utm_campaign=kf2-easy-server-map-adder)
-- [Profiles](https://sethdev.ca/profiles/?utm_source=rss&utm_medium=rss&utm_campaign=profiles)
-- [Wallpapers](https://sethdev.ca/digital-art/?utm_source=rss&utm_medium=rss&utm_campaign=digital-art)
-- [Emoji Statistics Discord.py Bot](https://sethdev.ca/emoji-statistics-discord-py-bot/?utm_source=rss&utm_medium=rss&utm_campaign=emoji-statistics-discord-py-bot)
-- [Vision Log Dream Journal App](https://sethdev.ca/vision-log-dream-journal-app/?utm_source=rss&utm_medium=rss&utm_campaign=vision-log-dream-journal-app)
+- [Art & Designs](https://www.sethdev.ca/portfolio/art/)
+- [KF2 ESMA](https://www.sethdev.ca/portfolio/programming/kf2-esma/)
+- [Vision Log](https://www.sethdev.ca/portfolio/programming/visionlog/)
+- [EmojiStatistics](https://www.sethdev.ca/portfolio/programming/emojistatistics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
