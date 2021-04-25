@@ -25,7 +25,6 @@ A freelancer who likes to learn how to do everything.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Art & Designs](https://www.sethdev.ca/portfolio/art/)
 - [KF2 ESMA](https://www.sethdev.ca/portfolio/programming/kf2-esma/)
 - [Vision Log](https://www.sethdev.ca/portfolio/programming/visionlog/)
 - [EmojiStatistics](https://www.sethdev.ca/portfolio/programming/emojistatistics/)
