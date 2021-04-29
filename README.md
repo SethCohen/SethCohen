@@ -36,8 +36,8 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 
 ---
 <h3 align="center"> My Stack </h3>
-<p align="center">
- <p>
+
+<p>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -64,7 +64,8 @@ A freelancer & hobbyist who likes to learn whatever interests me.
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
- </p>
+</p>
+<p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&bg_color=00000000&hide=bg-color&hide_border=true&layout=compact&theme=react"/>
  </a>
