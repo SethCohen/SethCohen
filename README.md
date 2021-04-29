@@ -2,6 +2,8 @@
 
 <img width="50%" align="right" alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true&count_private=true&theme=react&include_all_commits=true" />
 
+![](https://komarev.com/ghpvc/?username=SethCohen&style=flat-square)
+
 A freelancer & hobbyist who likes to learn how to do everything.
 <br>
 <br>
