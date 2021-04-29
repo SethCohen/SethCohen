@@ -16,16 +16,14 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 <br>
 
 ---
-
-### Latest YouTube Vids
+<h3 align="center"> Latest YouTube Vids</h3>
 
 <!-- YOUTUBE:START -->
 - [Killing Floor 2 Tutorial - Adding Multiple Maps To Your Server Easily](https://www.youtube.com/watch?v=maLiXN8EfG4)
 <!-- YOUTUBE:END -->
 
 [More Videos...](https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw)
-
-### Latest Blog Posts
+<h3 align="center"> Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [KF2 ESMA](https://www.sethdev.ca/portfolio/programming/kf2-esma/)
