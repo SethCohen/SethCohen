@@ -1,6 +1,5 @@
 # Hey, I'm Seth! 🍵 
 [![Website](https://img.shields.io/website?label=sethdev.ca&style=for-the-badge&url=https%3A%2F%2Fsethdev.ca)](https://sethdev.ca/)
-
 A freelancer & hobbyist who likes to learn how to do everything.
 
 ### Connect with me:
