@@ -9,10 +9,10 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 <br>
 
 ### Connect with me:
-[<img align="left" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sethdev.ca/)
-[<img align="left" width="50px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/youtube.svg" />](https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw)
-[<img align="left" width="50px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/playstore.svg" />](https://play.google.com/store/apps/developer?id=SethCohen)
-[<img align="left" width="50px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/fiverr.svg" />](https://sethdev.ca/)
+[<img align="left" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sethdev.ca/)
+[<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/youtube.svg" />](https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw)
+[<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/playstore.svg" />](https://play.google.com/store/apps/developer?id=SethCohen)
+[<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/fiverr.svg" />](https://sethdev.ca/)
 <br>
 
 ---
