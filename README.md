@@ -23,7 +23,7 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 - [Killing Floor 2 Tutorial - Adding Multiple Maps To Your Server Easily](https://www.youtube.com/watch?v=maLiXN8EfG4)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw)
+[More Videos...](https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw)
 
 ### Latest Blog Posts
 
@@ -32,6 +32,8 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 - [Vision Log](https://www.sethdev.ca/portfolio/programming/visionlog/)
 - [EmojiStatistics](https://www.sethdev.ca/portfolio/programming/emojistatistics/)
 <!-- BLOG-POST-LIST:END -->
+
+[More Posts...](https://sethdev.ca/portfolio)
 
 ---
 <p align="center">
