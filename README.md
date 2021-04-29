@@ -35,6 +35,8 @@ A freelancer & hobbyist who likes to learn how to do everything.
 
 ---
 <p align="center">
-[<img align="center" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&hide_border=true&layout=compact&theme=react" />](https://github.com/SethCohen)
+<a href="https://github.com/SethCohen">
+<img align="center" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&hide_border=true&layout=compact&theme=react"/>
+</a>
 </p>
 
