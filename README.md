@@ -1,5 +1,12 @@
 # Hey, I'm Seth! 🍵 [![Website](https://img.shields.io/website?label=sethdev.ca&style=for-the-badge&url=https%3A%2F%2Fsethdev.ca)](https://sethdev.ca/)
+
+<img width="50%" align="right" alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true&count_private=true&theme=react&include_all_commits=true" />
+
 A freelancer & hobbyist who likes to learn how to do everything.
+<br>
+<br>
+<br>
+<br>
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sethdev.ca/)
@@ -7,7 +14,6 @@ A freelancer & hobbyist who likes to learn how to do everything.
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/googleplay.svg" />](https://play.google.com/store/apps/developer?id=SethCohen)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/fiverr.svg" />](https://sethdev.ca/)
 
-<br />
 
 ---
 
@@ -28,5 +34,5 @@ A freelancer & hobbyist who likes to learn how to do everything.
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img height="200px" alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true&count_private=true&theme=react&include_all_commits=true" /><img height="200px" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&hide_border=true&layout=compact&theme=react" />
+<img height="200px" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&hide_border=true&layout=compact&theme=react" />
 
