@@ -2,7 +2,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" align="right" alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true&count_private=true&theme=react&include_all_commits=true&custom_title=Seth's+Github+Stats" /></a>
 
- [![](https://komarev.com/ghpvc/?username=SethCohen&style=flat-square&label=Profile+Views)](https://github.com/antonkomarev/github-profile-views-counter)
+ [![](https://gitwar.herokuapp.com/badge?username=SethCohen&style=for-the-badge&label=Profile+Views)](https://github.com/iampavangandhi/Gitwar)
 
 A freelancer & hobbyist who likes to learn whatever interests me.
 <br>
