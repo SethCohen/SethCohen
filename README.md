@@ -36,5 +36,5 @@ A freelancer & hobbyist who likes to learn how to do everything.
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&hide_border=true&layout=compact&theme=react" />
+<img align="center" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&hide_border=true&layout=compact&theme=react" />
 
