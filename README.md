@@ -21,9 +21,9 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 <!-- YOUTUBE:START -->
 - [Killing Floor 2 Tutorial - Adding Multiple Maps To Your Server Easily](https://www.youtube.com/watch?v=maLiXN8EfG4)
 <!-- YOUTUBE:END -->
-<p align="right">
- <a href="https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw">More Videos...</a>
-</p>
+
+<a href="https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw">More Videos...</a>
+
 <h3 align="center"> Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
@@ -32,9 +32,7 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 - [EmojiStatistics](https://www.sethdev.ca/portfolio/programming/emojistatistics/)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="right">
- <a href="https://sethdev.ca/portfolio">More Posts...</a>
-</p>
+<a href="https://sethdev.ca/portfolio">More Posts...</a>
 
 ---
 <p>
