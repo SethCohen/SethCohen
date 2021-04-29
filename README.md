@@ -62,8 +62,8 @@ A freelancer & hobbyist who likes to learn whatever interests me.
   <img align="right" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&bg_color=00000000&hide=bg-color&hide_border=true&layout=compact&theme=react"/>
  </a>
 </p>
+<br>
 <p>
-
  <a href="https://www.buymeacoffee.com/SethCohen" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50px" align="right">
  </a>
