@@ -4,7 +4,7 @@
 
  [![](https://komarev.com/ghpvc/?username=SethCohen&style=flat-square)](https://github.com/SethCohen)
 
-A freelancer & hobbyist who likes to learn how to do everything.
+A freelancer & hobbyist who likes to learn how to do what interests me.
 <br>
 <br>
 
