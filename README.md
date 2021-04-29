@@ -1,6 +1,6 @@
 # Hey, I'm Seth! 🍵 [![Website](https://img.shields.io/website?label=sethdev.ca&style=for-the-badge&url=https%3A%2F%2Fsethdev.ca)](https://sethdev.ca/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" align="right" alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true&count_private=true&theme=react&include_all_commits=true&bg_color=00000000&hide=bg-color&custom_title=Seth's+Github+Stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" align="right" alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true&count_private=true&theme=react&include_all_commits=true&custom_title=Seth's+Github+Stats" /></a>
 
  [![](https://komarev.com/ghpvc/?username=SethCohen&style=flat-square&label=Profile+Views)](https://github.com/antonkomarev/github-profile-views-counter)
 
@@ -36,7 +36,7 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 ---
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&hide_border=true&layout=compact&theme=react"/>
+<img align="center" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&bg_color=00000000&hide=bg-color&hide_border=true&layout=compact&theme=react"/>
 </a>
 </p>
 
