@@ -5,10 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=SethCohen&style=flat-square)
 
 A freelancer & hobbyist who likes to learn how to do everything.
-<br>
-<br>
-<br>
-<br>
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sethdev.ca/)
