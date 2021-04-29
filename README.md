@@ -28,6 +28,5 @@ A freelancer & hobbyist who likes to learn how to do everything.
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img height="200px" alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true&count_private=true&theme=react&include_all_commits=true" />
-<img height="200px" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&hide_border=true&layout=compact&theme=react" />
+<img height="200px" alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true&count_private=true&theme=react&include_all_commits=true" /><img height="200px" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&hide_border=true&layout=compact&theme=react" />
 
