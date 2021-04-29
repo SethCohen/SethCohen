@@ -6,9 +6,7 @@
 
 A freelancer & hobbyist who likes to learn whatever interests me.
 <br>
-
----
-
+<br>
 
 ### Connect with me:
 [<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/playstore.svg" />](https://play.google.com/store/apps/developer?id=SethCohen)
