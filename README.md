@@ -1,6 +1,6 @@
 # Hey, I'm Seth! 🍵 [![Website](https://img.shields.io/website?label=sethdev.ca&style=for-the-badge&url=https%3A%2F%2Fsethdev.ca)](https://sethdev.ca/)
 
-<img width="50%" align="right" alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true&count_private=true&theme=react&include_all_commits=true" />
+<a href="https://github.com/SethCohen"><img width="50%" align="right" alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true&count_private=true&theme=react&include_all_commits=true" /></a>
 
 ![](https://komarev.com/ghpvc/?username=SethCohen&style=flat-square)
 
