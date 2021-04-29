@@ -64,6 +64,12 @@ A freelancer & hobbyist who likes to learn whatever interests me.
  </a>
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <p>
  <a href="https://www.buymeacoffee.com/SethCohen" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50px">
