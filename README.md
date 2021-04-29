@@ -1,8 +1,7 @@
-### Hey there, I'm Seth! 👋
-
-A freelancer who likes to learn how to do everything.
-
+# Hey, I'm Seth! 🍵 
 [![Website](https://img.shields.io/website?label=sethdev.ca&style=for-the-badge&url=https%3A%2F%2Fsethdev.ca)](https://sethdev.ca/)
+
+A freelancer & hobbyist who likes to learn how to do everything.
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sethdev.ca/)
@@ -14,7 +13,7 @@ A freelancer who likes to learn how to do everything.
 
 ---
 
-### 📺 Latest YouTube Videos
+### Latest YouTube Vids
 
 <!-- YOUTUBE:START -->
 - [Killing Floor 2 Tutorial - Adding Multiple Maps To Your Server Easily](https://www.youtube.com/watch?v=maLiXN8EfG4)
@@ -22,7 +21,7 @@ A freelancer who likes to learn how to do everything.
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw)
 
-### 📕 Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [KF2 ESMA](https://www.sethdev.ca/portfolio/programming/kf2-esma/)
