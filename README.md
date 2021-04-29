@@ -48,6 +48,7 @@ A freelancer & hobbyist who likes to learn whatever interests me.
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-%23663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/>
   <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
@@ -57,7 +58,6 @@ A freelancer & hobbyist who likes to learn whatever interests me.
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="Webstorm" src="https://img.shields.io/badge/webstorm-%231d8bcf.svg?&style=for-the-badge&logo=webstorm&logoColor=white"/>
-  <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-%23663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/>
 </p>
 
 <p align="center">
