@@ -57,15 +57,14 @@ A freelancer & hobbyist who likes to learn whatever interests me.
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
+
 <p>
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" alt="SethCohen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SethCohen&bg_color=00000000&hide=bg-color&hide_border=true&layout=compact&theme=react"/>
  </a>
 </p>
 
-<br>
-<p>
- <a href="https://www.buymeacoffee.com/SethCohen" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50px" align="right">
- </a>
-</p>
+<a href="https://www.buymeacoffee.com/SethCohen" target="_blank">
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50px" align="left">
+</a>
+
