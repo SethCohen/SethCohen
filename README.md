@@ -6,6 +6,8 @@ A freelancer & hobbyist who likes to learn how to do everything.
 <br>
 <br>
 <br>
+<br>
+
 ### Connect with me:
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sethdev.ca/)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw)
