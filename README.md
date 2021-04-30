@@ -73,7 +73,7 @@ A freelancer & hobbyist who likes to learn whatever interests me.
   <img alt="Android Studio" src="https://img.shields.io/badge/androidstudio-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/>
   
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite/>
+  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite"/>
 </p>
 
 <p align="center">
