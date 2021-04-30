@@ -1,3 +1,10 @@
+<!--
+For a lot of the icons I use either https://fontawesome.com/license or https://simpleicons.org/
+Adjusting both SVG's colours where necessary, e.g. adding gradients.
+For the Latest Blog Posts & Youtube Vids, I used https://github.com/gautamkrishnar/blog-post-workflow
+For other readme widgets, I've attached redirect links on the images themselves.
+-->
+
 # Hey, I'm Seth! 🍵 [![Website](https://img.shields.io/website?label=sethdev.ca&style=for-the-badge&url=https%3A%2F%2Fsethdev.ca)](https://sethdev.ca/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" align="right" alt="SethCohen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SethCohen&show_icons=true&hide_border=true&count_private=true&theme=react&include_all_commits=true&custom_title=Seth's+Github+Stats" /></a>
