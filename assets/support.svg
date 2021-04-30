@@ -1,12 +1,9 @@
-
-<svg version="1.1" id="Layer_1" focusable="false" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" width="1000px" height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000"
-	 xml:space="preserve">
-	<linearGradient id="fill5" gradientUnits="userSpaceOnUse" x1="-140" y1="0" x2="70" y2="0">
+<svg version="1.1" id="Layer_1" focusable="false" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1000px" height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+	<linearGradient id="fill" gradientUnits="userSpaceOnUse" x1="-280" y1="0" x2="70" y2="0">
 		<stop offset="0.25" style="stop-color:#4069B2"/>
 		<stop offset="0.75" style="stop-color:#73A7F4"/>
 	</linearGradient>
-	<path fill="url(#fill5)" d="M981.371,625.174c-20.485-18.576-52.43-17.361-73.958,0L746.996,753.473c-19.691,15.797-44.199,24.375-69.444,24.305
+	<path fill="url(#fill)" d="M981.371,625.174c-20.485-18.576-52.43-17.361-73.958,0L746.996,753.473c-19.691,15.797-44.199,24.375-69.444,24.305
 	H472.223c-15.342,0-27.778-12.437-27.778-27.777s12.437-27.777,27.778-27.777h135.92c27.604,0,53.315-18.924,57.726-46.181
 	c0.544-3.131,0.811-6.303,0.799-9.479c-0.058-30.642-24.914-55.451-55.556-55.451H333.333
 	c-46.847,0.012-92.266,16.127-128.646,45.643l-80.729,65.469H27.778C12.437,722.223,0,734.659,0,750v166.667
