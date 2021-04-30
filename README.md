@@ -55,17 +55,23 @@ A freelancer & hobbyist who likes to learn whatever interests me.
   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+ 
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-%23663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/>
   <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+ 
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/adobepremierepro-%239999FF.svg?&style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+  <img alt="Adobe After Effects" src="https://img.shields.io/badge/adobeaftereffects-%239999FF.svg?&style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
+ 
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%2379c46a.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img alt="Webstorm" src="https://img.shields.io/badge/webstorm-%231d8bcf.svg?&style=for-the-badge&logo=webstorm&logoColor=white"/>
+  
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="Webstorm" src="https://img.shields.io/badge/webstorm-%231d8bcf.svg?&style=for-the-badge&logo=webstorm&logoColor=white"/>
 </p>
 
 <p align="center">
