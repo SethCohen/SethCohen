@@ -54,7 +54,7 @@ A freelancer & hobbyist who likes to learn whatever interests me.
   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart"/>
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logoColor=white"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown"/>
  
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react"/>
   <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-%23663399.svg?&style=for-the-badge&logo=gatsby"/>
