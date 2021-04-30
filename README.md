@@ -20,6 +20,7 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 [<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/youtube.svg" />](https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw)
 [<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/fiverr.svg" />](https://sethdev.ca/)
 [<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/globe.svg" />](https://sethdev.ca/)
+[<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/support.svg" />](https://sethdev.ca/support-me)
 <br>
 
 ---
