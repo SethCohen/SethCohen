@@ -17,4 +17,4 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCt3r8b3iDiUiQo9SdBRBgNw"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           max_post_count: 6
-          template: "$newline[![$title](https://img.youtube.com/vi/$videoId/hqdefault.jpg)]($url \"$title\")"
+          template: "$newline[![$title](https://img.youtube.com/vi/$videoId/mqdefault.jpg)]($url \"$title\")"
