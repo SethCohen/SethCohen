@@ -46,31 +46,31 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 <h3 align="center"> My Stack </h3>
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-  <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3"/>
+  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart"/>
+  <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge"/>
  
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-%23663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/>
-  <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react"/>
+  <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-%23663399.svg?&style=for-the-badge&logo=gatsby"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?&style=for-the-badge&logo=material-ui"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter" />
  
-  <img alt="Aseprite" src="https://img.shields.io/badge/aseprite-%237D929E.svg?&style=for-the-badge&logo=aseprite&logoColor=white"/>
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/adobepremierepro-%239999FF.svg?&style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
-  <img alt="Adobe After Effects" src="https://img.shields.io/badge/adobeaftereffects-%236e6edb.svg?&style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
+  <img alt="Aseprite" src="https://img.shields.io/badge/aseprite-%237D929E.svg?&style=for-the-badge&logo=aseprite"/>
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop"/>
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator"/>
+  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/adobepremierepro-%239999FF.svg?&style=for-the-badge&logo=adobe-premiere-pro"/>
+  <img alt="Adobe After Effects" src="https://img.shields.io/badge/adobeaftereffects-%236e6edb.svg?&style=for-the-badge&logo=adobe-after-effects"/>
  
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%2379c46a.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img alt="Webstorm" src="https://img.shields.io/badge/webstorm-%231d8bcf.svg?&style=for-the-badge&logo=webstorm&logoColor=white"/>
-  <img alt="Android Studio" src="https://img.shields.io/badge/androidstudio-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%2379c46a.svg?&style=for-the-badge&logo=PyCharm"/>
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea"/>
+  <img alt="Webstorm" src="https://img.shields.io/badge/webstorm-%231d8bcf.svg?&style=for-the-badge&logo=webstorm"/>
+  <img alt="Android Studio" src="https://img.shields.io/badge/androidstudio-%233DDC84.svg?&style=for-the-badge&logo=android"/>
   
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite"/>
