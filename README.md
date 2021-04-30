@@ -27,7 +27,7 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 <h3> Latest YouTube Vids</h3>
 
 <!-- YOUTUBE:START -->
-[![Killing Floor 2 Tutorial - Adding Multiple Maps To Your Server Easily](https://img.youtube.com/vi/maLiXN8EfG4/hqdefault.jpg)](https://www.youtube.com/watch?v=maLiXN8EfG4 "Killing Floor 2 Tutorial - Adding Multiple Maps To Your Server Easily")<!-- YOUTUBE:END -->
+[![Killing Floor 2 Tutorial - Adding Multiple Maps To Your Server Easily](https://img.youtube.com/vi/maLiXN8EfG4/mqdefault.jpg)](https://www.youtube.com/watch?v=maLiXN8EfG4 "Killing Floor 2 Tutorial - Adding Multiple Maps To Your Server Easily")<!-- YOUTUBE:END -->
 
 <a href="https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw">More Videos...</a>
 
