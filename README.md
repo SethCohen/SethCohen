@@ -18,7 +18,7 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 ### Connect with me:
 [<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/playstore.svg" />](https://play.google.com/store/apps/developer?id=SethCohen "Playstore Page")
 [<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/youtube.svg" />](https://www.youtube.com/channel/UCt3r8b3iDiUiQo9SdBRBgNw "Youtube Channel")
-[<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/fiverr.svg" />](https://sethdev.ca/ "Fiverr Page")
+[<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/fiverr.svg" />](# "Fiverr Page (WIP)")
 [<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/globe.svg" />](https://sethdev.ca/ "My Website")
 [<img align="left" width="25px" src="https://raw.githubusercontent.com/SethCohen/SethCohen/main/assets/support.svg" />](https://sethdev.ca/support-me "Support Me")
 <br>
