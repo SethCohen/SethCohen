@@ -37,7 +37,7 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 - [SethDev.ca](https://www.sethdev.ca/portfolio/programming/sethdev/)
 - [KF2 ESMA](https://www.sethdev.ca/portfolio/programming/kf2-esma/)
 - [Vision Log](https://www.sethdev.ca/portfolio/programming/visionlog/)
-- [EmojiStatistics](https://www.sethdev.ca/portfolio/programming/emojistatistics/)
+- [Emoji Utilities](https://www.sethdev.ca/portfolio/programming/emojiutilities/)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://sethdev.ca/portfolio">More Posts...</a>
