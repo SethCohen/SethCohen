@@ -34,6 +34,7 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 <h3> Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Vision Log Privacy Policy](https://www.sethdev.ca/portfolio/programming/visionlog/privacy-policy/)
 - [SethDev.ca](https://www.sethdev.ca/portfolio/programming/sethdev/)
 - [KF2 ESMA](https://www.sethdev.ca/portfolio/programming/kf2-esma/)
 - [Vision Log](https://www.sethdev.ca/portfolio/programming/visionlog/)
