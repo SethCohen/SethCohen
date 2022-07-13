@@ -48,19 +48,27 @@ A freelancer & hobbyist who likes to learn whatever interests me.
 <a href="#my-stack">
  <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=black"/>
+  <img alt="OpenJDK" src="https://img.shields.io/badge/openjdk-%23ED8B00.svg?&style=for-the-badge&logo=openjdk"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3"/>
   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart"/>
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B"/>
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
+  <img alt="Clojure" src="https://img.shields.io/badge/clojure-%235881D8.svg?&style=for-the-badge&logo=clojure&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown"/>
  
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react"/>
   <img alt="Gatsby" src="https://img.shields.io/badge/gatsby-%23663399.svg?&style=for-the-badge&logo=gatsby"/>
-  <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?&style=for-the-badge&logo=material-ui"/>
+  <img alt="MUI" src="https://img.shields.io/badge/mui-%230081CB.svg?&style=for-the-badge&logo=mui&logoColor=white"/>
+  <img alt="Bulma" src="https://img.shields.io/badge/bulma-%2300D1B2.svg?&style=for-the-badge&logo=bulma&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter" />
+  <img alt="InteractJS" src="https://img.shields.io/badge/interactjs-%232599ED.svg?&style=for-the-badge&logo=interactjs&logoColor=white"/>
+  <img alt="Chart.js" src="https://img.shields.io/badge/chart.js-%23FF6384.svg?&style=for-the-badge&logo=chart.js&logoColor=white"/>
  
   <img alt="Aseprite" src="https://img.shields.io/badge/aseprite-%237D929E.svg?&style=for-the-badge&logo=aseprite&logoColor=white"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
@@ -72,9 +80,15 @@ A freelancer & hobbyist who likes to learn whatever interests me.
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea"/>
   <img alt="Webstorm" src="https://img.shields.io/badge/webstorm-%231d8bcf.svg?&style=for-the-badge&logo=webstorm"/>
   <img alt="Android Studio" src="https://img.shields.io/badge/androidstudio-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="Vim" src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=Vim&logoColor=white"/>
   
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/graphql-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
+  
+  <img alt="Gradle" src="https://img.shields.io/badge/gradle-%2302303A.svg?&style=for-the-badge&logo=gradle&logoColor=white"/>
  </p>
 </a>
 
